@@ -1,0 +1,37 @@
+{
+    "exhibitors": [
+        "Hogehoge_Hugahuga",
+        "WhiteAtelier_white",
+        "na_mori"
+    ],
+    "common_assets": [
+        {
+            "name": "VRCSDK.unitypackage",
+            "hash": "fbc1a9f858ea9e177916964bd88c3d37b91a1e84412765e29950777f265c4b75",
+            "files": [
+                {
+                    "e474c971c2c045dd85e2c578f92c5be5": {
+                        "path": "VRCSDK/hogheoge.png"
+                    },
+                    "123a67f14aeb41dcad92d6149f7da0c9": {
+                        "path": "VRCSDK/hogheogea/fafafs.png"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "UTS2.unitypackage",
+            "hash": "1de72a7e7d6dbd6b8f2be026820ea31399958e9d7cff7749168f247ab11c6a7e",
+            "files": [
+                {
+                    "e474c971c2c045dd85e2c578f92c5be5": {
+                        "path": "VRCSDK/hogheoge.png"
+                    },
+                    "123a67f14aeb41dcad92d6149f7da0c9": {
+                        "path": "VRCSDK/hogheogea/fafafs.png"
+                    }
+                }
+            ]
+        }
+    ]
+}
